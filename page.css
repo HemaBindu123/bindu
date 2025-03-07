@@ -1,0 +1,48 @@
+body {
+    background-color:rgb(4, 4, 4);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+}
+
+.container {
+    width: 80%;
+    height: 200px;
+    background-color: #333; /* Light black (dark gray) */
+    margin-top: 100px;
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+    font-size: 30px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.back {
+    background-color: #FF914D;
+    color: white;
+}
+
+.go-to {
+    background-color: #FF914D;
+    color: white;
+    margin-left: 10px;
+}
+.a{
+    color: white;
+text-decoration: none;
+}
+.first{
+
+    color:#FF914D ;
+}
